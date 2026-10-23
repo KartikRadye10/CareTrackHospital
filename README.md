@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareTrack — Hospital Virus Quarantine & Treatment Operations Platform
 **FactWise Technical Product Manager (TPM) Assessment Prototype**
 
@@ -175,3 +176,6 @@ COPY --from=build /app/dist /usr/share/nginx/html
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 ```
+=======
+# CareTrackHospital
+>>>>>>> 3b9e413b25ff400d34a0254811a43ce8abcecd30
